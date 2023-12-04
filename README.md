@@ -1,27 +1,25 @@
-<h1>Hi there 👋 <br/><a href="https://www.linkedin.com/in/jeffluahiwa/"></a>
+<h1>Hi there 👋🏽 <br/><a href="https://www.linkedin.com/in/jeffluahiwa/"></a>
 
 <h2>About Me</h2>
 <br>
 <div>
   <ul>
-    <li>&wzj; Pronouns: he/him</li>
-    <li></li>
-    <li></li>
+    <li> 👨🏽‍💻 Pronouns: he/him</li>
+    <li> 💻 Applying cybersecurity concepts to increase my security hardening posture. I work on projects that develop data investigation methods, incident response playbooks and other cybersecurity techniques. I also study IT, and programming-related topics.</li>
+    <li> 📪 How to reach me: Through my <a href="https://www.linkedin.com/in/jeffluahiwa/">LinkedIn</a></li>
   </ul>
 </div>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/bakedpy/LABURL)
 
-<h2> Certifications:</h2>
-
-- [Google Cybersecurity Professional](LINK TO PICTURE OF CERT)
-
-- [Frontend Web Developer](LINK TO PICTURE)
-  
-- [FEMA National Incident Management System (NIMS): ICS-100](LINK TO PICTURE OF CERT)
-
+<h2> 📜 Certifications:</h2>
+<ul>
+  <li>[Google Cybersecurity Professional]</li>
+  <li>[Frontend Web Developer]</li> 
+  <li>[FEMA National Incident Management System (NIMS): ICS-100]</li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
