@@ -1,4 +1,14 @@
-<h1>Hi, I'm Jeff aka Baked PY! <br/><a href="https://www.linkedin.com/in/jeffluahiwa/"></a>
+<h1>Hi there 👋 <br/><a href="https://www.linkedin.com/in/jeffluahiwa/"></a>
+
+<h2>About Me</h2>
+<br>
+<div>
+  <ul>
+    <li>&wzj; Pronouns: he/him</li>
+    <li></li>
+    <li></li>
+  </ul>
+</div>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
