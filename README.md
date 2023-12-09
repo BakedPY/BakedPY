@@ -12,7 +12,7 @@
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/bakedpy/LABURL)
+- [Wireshark: Packet Capture Analysis](https://github.com/BakedPY/WiresharkPacketCapture)
 - [Splunk Basics: View and Analyze Queries](https://github.com/BakedPY/SEIM-Splunk-Basics)
 
 <h2> 📜 Certifications:</h2>
