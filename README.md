@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li> 👨🏽‍💻 Pronouns: he/him</li>
-    <li> 💻 Applying cybersecurity concepts to increase my security hardening posture. I work on projects that develop data investigation methods, incident response playbooks and other cybersecurity techniques. I also study IT, and programming-related topics.</li>
+    <li> 💻 Applying cybersecurity concepts to harden your security posture. I work on projects that develop data investigation methods, incident response playbooks, and other cybersecurity techniques. I also study IT, and programming-related topics.</li>
     <li> 📪 How to reach me: Through my <a href="https://www.linkedin.com/in/jeffluahiwa/">LinkedIn</a></li>
   </ul>
 </div>
