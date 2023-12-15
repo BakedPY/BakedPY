@@ -14,7 +14,7 @@
 
 - [Wireshark: Packet Capture Analysis](https://github.com/BakedPY/WiresharkPacketCapture)
 - [Splunk Basics: View and Analyze Queries](https://github.com/BakedPY/SEIM-Splunk-Basics)
-
+- [SOC Home Lab: Threat Intelligence and Analysis](https://github.com/BakedPY/SOC-HomeLab)
 <h2> 📜 Certifications:</h2>
 <ul>
   <li>[Google Cybersecurity Professional]</li>
